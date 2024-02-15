@@ -66,3 +66,11 @@ h1, h2 {
     background-color: var(--blanco);
     padding: 5rem;
 }
+
+/*Display Flex*/
+
+/*1*/
+
+.d-flex{
+    display: flex;
+}
