@@ -90,3 +90,11 @@ h1, h2 {
     flex-direction: column;
     justify-content:flex-end;
 }
+
+.d-flex-5{
+    display: flex;
+    height: 700px;
+    align-items: center;
+    align-items: stretch;
+    align-items: flex-start;
+}
