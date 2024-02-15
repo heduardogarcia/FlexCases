@@ -79,3 +79,8 @@ h1, h2 {
     display: flex;
     flex-direction: row-reverse;
 }
+
+.d-flex-3{
+    display: flex;
+    justify-content: space-between;
+}
