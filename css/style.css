@@ -114,3 +114,13 @@ h1, h2 {
     align-items: flex-end;
     height: 800px;
 }
+
+/*8*/
+
+.d-flex-8{
+    display: flex;
+}
+.d-flex-8 .box {
+    flex-basis: 20%;
+    flex-basis: 200px;
+}
