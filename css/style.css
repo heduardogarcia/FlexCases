@@ -154,3 +154,18 @@ h1, h2 {
 .d-flex-10 .box{
     flex-basis: calc(33.3% - 1rem);
 }
+
+.d-flex-11 {
+    display: flex;
+    gap:1rem;
+
+}
+
+.d-flex-11 .box:nth-child(1){
+    flex-grow: 3;
+}
+
+.d-flex-11 .box:nth-child(2),
+.d-flex-11 .box:nth-child(3){
+    flex-grow: 1;
+}
